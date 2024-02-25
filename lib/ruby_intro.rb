@@ -75,3 +75,5 @@ class BookInStock
     format('$%.2f', @price)
   end
 end
+
+print 'Hello World'
